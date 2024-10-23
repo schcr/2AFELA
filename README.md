@@ -1,2 +1,2 @@
 # 2AFELA
-Beispielprogramme
+Beispielprogramme zum Unterricht
